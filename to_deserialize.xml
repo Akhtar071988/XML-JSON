@@ -1,0 +1,12 @@
+<PhoneDetails>
+  <company_name>Alfreds Futterkiste</company_name>
+  <comtact_name>Maria Anders</comtact_name>
+  <contact_title>Sales Representative</contact_title>
+  <address>Obere Str. 57</address>
+  <city>Berlin</city>
+  <email>dummy@gmail.com</email>
+  <postal_code>12209</postal_code>
+  <country>Germany</country>
+  <phone>030-0074321</phone>
+  <fax>030-0076545</fax>
+</PhoneDetails>
